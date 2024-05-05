@@ -1,0 +1,35 @@
+.img {
+    width: 400px;
+    height: auto;
+}
+
+.gallery {
+
+    display: flex;
+    justify-content: center;
+}
+
+.galleryPhotosList {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    list-style: none;
+}
+
+.photo {
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+
+.tittleGallery {
+    margin-left: 50px;
+    margin-top: 70px;
+    font-weight: 700;
+    font-size: 30px;
+
+    width: 100%;
+    height: 20px;
+    background-color: rgb(139, 138, 58);
+}

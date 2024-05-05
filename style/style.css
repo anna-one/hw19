@@ -1,0 +1,23 @@
+@import "./fonts.css";
+@import "./headerFooter.css";
+@import "./about.css";
+@import "./contact.css";
+@import "./gallery.css";
+
+
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: SignikaNegative, sans-serif;
+}
+
+
+
+
+.conteiner {
+    width: 100%;
+    margin-right: 100px;
+}
